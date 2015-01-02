@@ -30,7 +30,7 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Baking soda (in a recipe) | Teaspoons
 | Butter (in a store) | 454g packages
 | Butter (in a recipe) | Cups
-| Cup (metric) | 250ml
+| Cup (metric) | 250ml (as opposed to 236ml)
 | Temperature (outside) | Degrees Celsius
 | Temperature (in an oven) | Degrees Fahrenheit 
 | Temperature (of a swimming pool) | Degrees Fahrenheit 
