@@ -16,7 +16,7 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Mileage (in practice) | Miles per gallon
 | Weight (of a person) | Pounds
 | Weed (street) | Grams
-| Weed (wholesale) | Ounces or Pounds (depending on budget)
+| Weed (wholesale) | Ounces or pounds (depending on budget)
 | Laptop size | Inches
 | Paper | Inches
 | Penis length | Inches
