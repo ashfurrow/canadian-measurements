@@ -30,6 +30,7 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Baking soda (in a recipe) | Teaspoons
 | Butter (in a store) | 454g packages
 | Butter (in a recipe) | Cups
+| Cup (metric) | 250ml
 | Temperature (outside) | Degrees Celsius
 | Temperature (in an oven) | Degrees Fahrenheit 
 | Temperature (of a swimming pool) | Degrees Fahrenheit 
@@ -46,8 +47,9 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Wine (glass of) | Ounces
 | Beer (bottle) | 341 millilitres
 | Beer (can) | 355 millimetres
-| Beer (draught) | Pint
+| Beer (draught) | Pint (imperial)
 | Beer (bulk, 24-can case) | “Two fours”
+| Pint (imperial) | 568 ml
 | Wrench (that you have) | Inches
 | Wrench (that you need) | Centimetres
 
