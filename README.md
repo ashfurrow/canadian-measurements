@@ -47,9 +47,8 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Wine (glass of) | Ounces
 | Beer (bottle) | 341 millilitres
 | Beer (can) | 355 millimetres
-| Beer (draught) | Pint (imperial)
+| Beer (draught) | Imperial pint (568 ml)
 | Beer (bulk, 24-can case) | “Two fours”
-| Pint (imperial) | 568 ml
 | Wrench (that you have) | Inches
 | Wrench (that you need) | Centimetres
 
