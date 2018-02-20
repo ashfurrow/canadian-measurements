@@ -34,7 +34,7 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Temperature (outside) | Degrees Celsius
 | Temperature (in an oven) | Degrees Fahrenheit 
 | Temperature (of a swimming pool) | Degrees Fahrenheit 
-| Canadian indie bands | Metrics
+| Canadian indie bands | Metric
 | Wood | 2"x4" (a “two-by-four”, which meaures [1½ × 3½ inches](http://en.wikipedia.org/wiki/2x4))
 | Dimensions of a newborn (officially) | Centimetres & kilograms
 | Dimensions of a newborn (in practice) | Inches & pounds
