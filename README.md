@@ -52,4 +52,4 @@ People are blaming recent airplane tragedies on a confusion between the imperial
 | Wrench (that you have) | Inches
 | Wrench (that you need) | Millilitres
 
-I think Canada would have a lot easier time if it weren’t geographically face-sitting on the US. 
+I think Canada would have a lot easier time if it weren’t geographically the United State's hat. 
